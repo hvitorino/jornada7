@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/dd
+END
+StatusProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/dd/StatusProxy.js
+END
+Registry.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/dd/Registry.js
+END
+DragTracker.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/dd/DragTracker.js
+END
+DragZone.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/dd/DragZone.js
+END
+ScrollManager.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/dd/ScrollManager.js
+END
+DropTarget.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/dd/DropTarget.js
+END
+DragSource.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/dd/DragSource.js
+END
+DDCore.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/dd/DDCore.js
+END
+DropZone.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/dd/DropZone.js
+END

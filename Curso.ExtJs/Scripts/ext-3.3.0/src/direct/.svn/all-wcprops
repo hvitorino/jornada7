@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/direct
+END
+JsonProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/direct/JsonProvider.js
+END
+Transaction.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/direct/Transaction.js
+END
+Direct.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/direct/Direct.js
+END
+Provider.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/direct/Provider.js
+END
+PollingProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/direct/PollingProvider.js
+END
+RemotingProvider.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/direct/RemotingProvider.js
+END
+Event.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/direct/Event.js
+END

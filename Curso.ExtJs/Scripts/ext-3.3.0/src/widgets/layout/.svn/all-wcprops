@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/widgets/layout
+END
+AutoLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/widgets/layout/AutoLayout.js
+END
+CardLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/widgets/layout/CardLayout.js
+END
+AnchorLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/widgets/layout/AnchorLayout.js
+END
+BorderLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/widgets/layout/BorderLayout.js
+END
+AbsoluteLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/widgets/layout/AbsoluteLayout.js
+END
+VBoxLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/widgets/layout/VBoxLayout.js
+END
+FitLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/widgets/layout/FitLayout.js
+END
+ContainerLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/widgets/layout/ContainerLayout.js
+END
+TableLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/widgets/layout/TableLayout.js
+END
+BoxLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/widgets/layout/BoxLayout.js
+END
+ColumnLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/widgets/layout/ColumnLayout.js
+END
+HBoxLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/widgets/layout/HBoxLayout.js
+END
+AccordionLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/widgets/layout/AccordionLayout.js
+END
+ToolbarLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/widgets/layout/ToolbarLayout.js
+END
+FormLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/widgets/layout/FormLayout.js
+END
+MenuLayout.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/widgets/layout/MenuLayout.js
+END

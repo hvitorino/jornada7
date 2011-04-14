@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data
+END
+Types.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/Types.js
+END
+JsonWriter.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/JsonWriter.js
+END
+DataWriter.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/DataWriter.js
+END
+GroupingStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/GroupingStore.js
+END
+Api.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/Api.js
+END
+MemoryProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/MemoryProxy.js
+END
+DataProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/DataProxy.js
+END
+DirectProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/DirectProxy.js
+END
+SortTypes.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/SortTypes.js
+END
+DataField.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/DataField.js
+END
+XmlStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/XmlStore.js
+END
+Record.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/Record.js
+END
+HttpProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/HttpProxy.js
+END
+XmlReader.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/XmlReader.js
+END
+JsonStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/JsonStore.js
+END
+DirectStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/DirectStore.js
+END
+Request.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/Request.js
+END
+ArrayStore.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/ArrayStore.js
+END
+JsonReader.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/JsonReader.js
+END
+DataReader.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/DataReader.js
+END
+Store.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/Store.js
+END
+XmlWriter.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/XmlWriter.js
+END
+Response.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/Response.js
+END
+Tree.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/Tree.js
+END
+ArrayReader.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/ArrayReader.js
+END
+ScriptTagProxy.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/ScriptTagProxy.js
+END
+StoreMgr.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/libra/!svn/ver/328/trunk/Fontes/Libra.Web/Scripts/ext-3.3.0/src/data/StoreMgr.js
+END

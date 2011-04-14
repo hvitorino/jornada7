@@ -1,0 +1,12 @@
+c:\users\hamon\documents\visual studio 2010\Projects\Curso.ExtJs\Curso.ExtJs\bin\Curso.ExtJs.dll
+c:\users\hamon\documents\visual studio 2010\Projects\Curso.ExtJs\Curso.ExtJs\bin\Curso.ExtJs.pdb
+c:\users\hamon\documents\visual studio 2010\Projects\Curso.ExtJs\Curso.ExtJs\obj\Debug\ResolveAssemblyReference.cache
+c:\users\hamon\documents\visual studio 2010\Projects\Curso.ExtJs\Curso.ExtJs\obj\Debug\Curso.ExtJs.dll
+c:\users\hamon\documents\visual studio 2010\Projects\Curso.ExtJs\Curso.ExtJs\obj\Debug\Curso.ExtJs.pdb
+c:\users\hamon\documents\visual studio 2010\Projects\Curso.ExtJs\Curso.ExtJs\bin\Microsoft.Web.Mvc.dll
+D:\Curso.ExtJs\Curso.ExtJs\bin\Curso.ExtJs.dll
+D:\Curso.ExtJs\Curso.ExtJs\bin\Curso.ExtJs.pdb
+D:\Curso.ExtJs\Curso.ExtJs\bin\Microsoft.Web.Mvc.dll
+D:\Curso.ExtJs\Curso.ExtJs\obj\Debug\ResolveAssemblyReference.cache
+D:\Curso.ExtJs\Curso.ExtJs\obj\Debug\Curso.ExtJs.dll
+D:\Curso.ExtJs\Curso.ExtJs\obj\Debug\Curso.ExtJs.pdb
