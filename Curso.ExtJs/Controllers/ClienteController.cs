@@ -59,7 +59,7 @@ namespace Curso.ExtJs.Controllers
 			{
 				Dados = new List<Cliente> { cliente },
 				Total = 1,
-				Sucesso = true
+				Sucesso = false
 			};
 
 			return Json( resultado, JsonRequestBehavior.AllowGet );
